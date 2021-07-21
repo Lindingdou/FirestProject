@@ -1,0 +1,23 @@
+c:\users\wh0is\documents\visual studio 2010\Projects\Tn08CAD\DrawSlope\bin\Debug\DrawSlope.dll
+c:\users\wh0is\documents\visual studio 2010\Projects\Tn08CAD\DrawSlope\bin\Debug\DrawSlope.pdb
+c:\users\wh0is\documents\visual studio 2010\Projects\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.dll
+c:\users\wh0is\documents\visual studio 2010\Projects\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.pdb
+C:\Users\wh0is\documents\visual studio 2010\Projects\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.csprojResolveAssemblyReference.cache
+C:\Users\wh0is\documents\visual studio 2010\Projects\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.Param.resources
+C:\Users\wh0is\documents\visual studio 2010\Projects\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.csproj.GenerateResource.Cache
+C:\Users\Galileo\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.csprojAssemblyReference.cache
+C:\Users\Galileo\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.Param.resources
+C:\Users\Galileo\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.csproj.GenerateResource.cache
+C:\Users\Galileo\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.csproj.CoreCompileInputs.cache
+C:\Users\Galileo\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.dll
+C:\Users\Galileo\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.pdb
+C:\Users\Galileo\Desktop\Tn08CAD\Tn08CAD\DrawSlope\bin\Debug\DrawSlope.dll
+C:\Users\Galileo\Desktop\Tn08CAD\Tn08CAD\DrawSlope\bin\Debug\DrawSlope.pdb
+C:\Users\00\Desktop\Tn08CAD\Tn08CAD\DrawSlope\bin\Debug\DrawSlope.dll
+C:\Users\00\Desktop\Tn08CAD\Tn08CAD\DrawSlope\bin\Debug\DrawSlope.pdb
+C:\Users\00\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.csprojAssemblyReference.cache
+C:\Users\00\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.Param.resources
+C:\Users\00\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.csproj.GenerateResource.cache
+C:\Users\00\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.csproj.CoreCompileInputs.cache
+C:\Users\00\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.dll
+C:\Users\00\Desktop\Tn08CAD\Tn08CAD\DrawSlope\obj\Debug\DrawSlope.pdb
